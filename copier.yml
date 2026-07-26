@@ -23,11 +23,6 @@ depends_on:
     - bailiff-mod-base
   when: false
 
-phase:
-  type: str
-  default: normal
-  when: false
-
 # --- External data aliases (spec 014 / FR-004 / _facts.md) -------------------
 _external_data:
   base: .copier-answers.bailiff-mod-base.yml

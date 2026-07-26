@@ -16,6 +16,12 @@ cocogitto fan-out (ADR-0006); do not hand-edit released sections.
 
 <!--
   cocogitto inserts each released version's section ABOVE the `- - -
+## bailiff-mod-cdk-v0.4.0 - 2026-07-26
+#### Features
+- (**scaffold**) carry module order and gating in bd formulas - (b0a3766) - Sjors Robroek
+
+- - -
+
 ## bailiff-mod-cdk-v0.3.0 - 2026-07-20
 #### Features
 - fail fast (before writing) when a module's required tool is missing (#58) - (d02a12d) - Sjors Robroek
